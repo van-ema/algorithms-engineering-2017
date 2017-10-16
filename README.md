@@ -33,9 +33,9 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 
 ## Lezioni
 
-| Giorno     | Argomento                            | Docente    | Materiale  |
-|------------|--------------------------------------|------------|------------|
-| 16/10/2017 | Python                               | Vannacci   |            |
+| Giorno     | Argomento                            | Docente    | Materiale |
+|------------|--------------------------------------|------------|---------------------|
+| 16/10/2017 | Python                               | Vannacci   |[slide][1] [code][2]  |
 | 23/10/2017 | Liste, Code, Pile                    | Trivelloni |            |
 | 30/10/2017 | Algoritmi di ordinamento             | Marciani   |            |
 | 06/11/2017 | Algoritmi di selezione               | Vannacci   |            |
@@ -48,6 +48,8 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 | 22/12/2017 | Cammini minimi, Progetto finale      | Trivelloni |            |
 | 10/01/2017 | Q&A                                  | *          |            |
 
+[1]:{{ site.url }}/slide/Python.pdf
+[2]:{{ site.url }}/tree/master/python/archive/master.zip
 
 ## Risorse
 **Python** -- [download](https://www.python.org/)
