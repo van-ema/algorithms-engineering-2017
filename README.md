@@ -49,7 +49,7 @@ Potrete decidere di svolgere la prova pratica in *due modalità, mutuamente eslc
 | 10/01/2017 | Q&A                                  | *          |            |
 
 
-[1]:https://github.com//algorithms-engineering-2017/blob/gh-pages/slide/Python.pdf
+[1]:https://github.com/van-ema/algorithms-engineering-2017/raw/gh-pages/slide/Python.pdf
 
 ## Risorse
 **Python** -- [download](https://www.python.org/)
